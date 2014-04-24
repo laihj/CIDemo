@@ -1,1 +1,2 @@
 language: objective-c
+script: xcodebuild -project CIDemo.xcodeproj -target CIDemo -sdk iphonesimulator ONLY_ARCTIVE_ARCH=NO
