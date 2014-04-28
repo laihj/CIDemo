@@ -21,16 +21,18 @@
 		384DB57A1908C7ED0067410A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB55C1908C7EC0067410A /* UIKit.framework */; };
 		384DB5821908C7ED0067410A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 384DB5801908C7ED0067410A /* InfoPlist.strings */; };
 		384DB5841908C7ED0067410A /* CIDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB5831908C7ED0067410A /* CIDemoTests.m */; };
-		384DB58F1908E6C90067410A /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB56E1908C7EC0067410A /* MyViewController.m */; };
-		384DB5901908E6C90067410A /* MyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB5681908C7EC0067410A /* MyAppDelegate.m */; };
-		384DB5911908E6C90067410A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB5641908C7EC0067410A /* main.m */; };
-		384DB5931908E6C90067410A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB55A1908C7EC0067410A /* CoreGraphics.framework */; };
-		384DB5941908E6C90067410A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB55C1908C7EC0067410A /* UIKit.framework */; };
-		384DB5951908E6C90067410A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB5581908C7EC0067410A /* Foundation.framework */; };
-		384DB5971908E6C90067410A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 384DB5701908C7EC0067410A /* Images.xcassets */; };
-		384DB5981908E6C90067410A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 384DB5611908C7EC0067410A /* InfoPlist.strings */; };
-		384DB5991908E6C90067410A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 384DB56A1908C7EC0067410A /* Main.storyboard */; };
 		384DB5A01908E7030067410A /* ul1152366-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 384DB59F1908E7030067410A /* ul1152366-4.jpg */; };
+		38E0B3EB190E09DD000123A6 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB56E1908C7EC0067410A /* MyViewController.m */; };
+		38E0B3EC190E09DD000123A6 /* MyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB5681908C7EC0067410A /* MyAppDelegate.m */; };
+		38E0B3ED190E09DD000123A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 384DB5641908C7EC0067410A /* main.m */; };
+		38E0B3EF190E09DD000123A6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB55A1908C7EC0067410A /* CoreGraphics.framework */; };
+		38E0B3F0190E09DD000123A6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB55C1908C7EC0067410A /* UIKit.framework */; };
+		38E0B3F1190E09DD000123A6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DB5581908C7EC0067410A /* Foundation.framework */; };
+		38E0B3F2190E09DD000123A6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B7006D9749D842999412A3F0 /* libPods.a */; };
+		38E0B3F4190E09DD000123A6 /* ul1152366-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 384DB59F1908E7030067410A /* ul1152366-4.jpg */; };
+		38E0B3F5190E09DD000123A6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 384DB5701908C7EC0067410A /* Images.xcassets */; };
+		38E0B3F6190E09DD000123A6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 384DB5611908C7EC0067410A /* InfoPlist.strings */; };
+		38E0B3F7190E09DD000123A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 384DB56A1908C7EC0067410A /* Main.storyboard */; };
 		3A6722A915CC4DA08D0C32AE /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B7006D9749D842999412A3F0 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -64,9 +66,10 @@
 		384DB57F1908C7ED0067410A /* CIDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CIDemoTests-Info.plist"; sourceTree = "<group>"; };
 		384DB5811908C7ED0067410A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		384DB5831908C7ED0067410A /* CIDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CIDemoTests.m; sourceTree = "<group>"; };
-		384DB59D1908E6C90067410A /* CIDemo copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CIDemo copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		384DB59E1908E6C90067410A /* CIDemo copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CIDemo copy-Info.plist"; path = "/Users/laihj/workspace/CIDemo/CIDemo copy-Info.plist"; sourceTree = "<absolute>"; };
 		384DB59F1908E7030067410A /* ul1152366-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ul1152366-4.jpg"; sourceTree = "<group>"; };
+		38E0B3FC190E09DD000123A6 /* CIDemo copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CIDemo copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		38E0B3FD190E09DD000123A6 /* CIDemo copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CIDemo copy2-Info.plist"; path = "/Users/laihj/workspace/CIDemo/CIDemo copy2-Info.plist"; sourceTree = "<absolute>"; };
 		8B1C54D001FF494382115BA1 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		B7006D9749D842999412A3F0 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -93,13 +96,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		384DB5921908E6C90067410A /* Frameworks */ = {
+		38E0B3EE190E09DD000123A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				384DB5931908E6C90067410A /* CoreGraphics.framework in Frameworks */,
-				384DB5941908E6C90067410A /* UIKit.framework in Frameworks */,
-				384DB5951908E6C90067410A /* Foundation.framework in Frameworks */,
+				38E0B3EF190E09DD000123A6 /* CoreGraphics.framework in Frameworks */,
+				38E0B3F0190E09DD000123A6 /* UIKit.framework in Frameworks */,
+				38E0B3F1190E09DD000123A6 /* Foundation.framework in Frameworks */,
+				38E0B3F2190E09DD000123A6 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,6 +119,7 @@
 				384DB5561908C7EC0067410A /* Products */,
 				384DB59E1908E6C90067410A /* CIDemo copy-Info.plist */,
 				8B1C54D001FF494382115BA1 /* Pods.xcconfig */,
+				38E0B3FD190E09DD000123A6 /* CIDemo copy2-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,7 +128,7 @@
 			children = (
 				384DB5551908C7EC0067410A /* CIDemo.app */,
 				384DB5761908C7ED0067410A /* CIDemoTests.xctest */,
-				384DB59D1908E6C90067410A /* CIDemo copy.app */,
+				38E0B3FC190E09DD000123A6 /* CIDemo copy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -224,21 +229,23 @@
 			productReference = 384DB5761908C7ED0067410A /* CIDemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		384DB58D1908E6C90067410A /* CIDemo2 */ = {
+		38E0B3E8190E09DD000123A6 /* CIDemo copy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 384DB59A1908E6C90067410A /* Build configuration list for PBXNativeTarget "CIDemo2" */;
+			buildConfigurationList = 38E0B3F9190E09DD000123A6 /* Build configuration list for PBXNativeTarget "CIDemo copy" */;
 			buildPhases = (
-				384DB58E1908E6C90067410A /* Sources */,
-				384DB5921908E6C90067410A /* Frameworks */,
-				384DB5961908E6C90067410A /* Resources */,
+				38E0B3E9190E09DD000123A6 /* Check Pods Manifest.lock */,
+				38E0B3EA190E09DD000123A6 /* Sources */,
+				38E0B3EE190E09DD000123A6 /* Frameworks */,
+				38E0B3F3190E09DD000123A6 /* Resources */,
+				38E0B3F8190E09DD000123A6 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CIDemo2;
+			name = "CIDemo copy";
 			productName = CIDemo;
-			productReference = 384DB59D1908E6C90067410A /* CIDemo copy.app */;
+			productReference = 38E0B3FC190E09DD000123A6 /* CIDemo copy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -271,7 +278,7 @@
 			targets = (
 				384DB5541908C7EC0067410A /* CIDemo */,
 				384DB5751908C7ED0067410A /* CIDemoTests */,
-				384DB58D1908E6C90067410A /* CIDemo2 */,
+				38E0B3E8190E09DD000123A6 /* CIDemo copy */,
 			);
 		};
 /* End PBXProject section */
@@ -296,19 +303,50 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		384DB5961908E6C90067410A /* Resources */ = {
+		38E0B3F3190E09DD000123A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				384DB5971908E6C90067410A /* Images.xcassets in Resources */,
-				384DB5981908E6C90067410A /* InfoPlist.strings in Resources */,
-				384DB5991908E6C90067410A /* Main.storyboard in Resources */,
+				38E0B3F4190E09DD000123A6 /* ul1152366-4.jpg in Resources */,
+				38E0B3F5190E09DD000123A6 /* Images.xcassets in Resources */,
+				38E0B3F6190E09DD000123A6 /* InfoPlist.strings in Resources */,
+				38E0B3F7190E09DD000123A6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		38E0B3E9190E09DD000123A6 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		38E0B3F8190E09DD000123A6 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		448654920E7C43318C2E9F91 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -360,13 +398,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		384DB58E1908E6C90067410A /* Sources */ = {
+		38E0B3EA190E09DD000123A6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				384DB58F1908E6C90067410A /* MyViewController.m in Sources */,
-				384DB5901908E6C90067410A /* MyAppDelegate.m in Sources */,
-				384DB5911908E6C90067410A /* main.m in Sources */,
+				38E0B3EB190E09DD000123A6 /* MyViewController.m in Sources */,
+				38E0B3EC190E09DD000123A6 /* MyAppDelegate.m in Sources */,
+				38E0B3ED190E09DD000123A6 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -547,27 +585,29 @@
 			};
 			name = Release;
 		};
-		384DB59B1908E6C90067410A /* Debug */ = {
+		38E0B3FA190E09DD000123A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B1C54D001FF494382115BA1 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CIDemo/CIDemo-Prefix.pch";
-				INFOPLIST_FILE = "CIDemo copy-Info.plist";
+				INFOPLIST_FILE = "CIDemo copy2-Info.plist";
 				PRODUCT_NAME = "CIDemo copy";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
-		384DB59C1908E6C90067410A /* Release */ = {
+		38E0B3FB190E09DD000123A6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B1C54D001FF494382115BA1 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CIDemo/CIDemo-Prefix.pch";
-				INFOPLIST_FILE = "CIDemo copy-Info.plist";
+				INFOPLIST_FILE = "CIDemo copy2-Info.plist";
 				PRODUCT_NAME = "CIDemo copy";
 				WRAPPER_EXTENSION = app;
 			};
@@ -603,11 +643,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		384DB59A1908E6C90067410A /* Build configuration list for PBXNativeTarget "CIDemo2" */ = {
+		38E0B3F9190E09DD000123A6 /* Build configuration list for PBXNativeTarget "CIDemo copy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				384DB59B1908E6C90067410A /* Debug */,
-				384DB59C1908E6C90067410A /* Release */,
+				38E0B3FA190E09DD000123A6 /* Debug */,
+				38E0B3FB190E09DD000123A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
