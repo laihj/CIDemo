@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <EGOCache/EGOCache.h>
 
 @interface MyViewController : UIViewController
 
