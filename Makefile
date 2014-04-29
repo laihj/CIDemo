@@ -106,10 +106,13 @@ all : package uploadFiles
 
 compile :
 	@echo "Start building project."
+	@echo $(BuildCmdConfig) 
+	@echo $(CompileOutputPath) 
 	@xcodebuild $(BuildCmdConfig)
 
 package : compile
 	@echo "Start packaging."
+
 	@xcrun -sdk iphoneos PackageApplication -v $(CompileOutputPath)/*.app -o $(WorkPath)/$(AppBundleName).ipa
 
 uploadFiles : plist

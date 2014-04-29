@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>CIDemoTest</string>
 	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
+	<string>CIDemoTest</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.laihj.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
